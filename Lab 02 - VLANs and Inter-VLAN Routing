@@ -1,0 +1,34 @@
+Lab 02 - VLANs and Inter-VLAN Routing
+Objective
+
+To create separate VLANs for different departments and enable communication between them using Router-on-a-Stick.
+
+Topology
+
+Insert topology screenshot here.
+
+Devices Used
+Cisco Router
+Cisco Switch
+3 PCs
+VLAN Plan
+VLAN	Department	Network
+10	HR	192.168.10.0/24
+20	IT	192.168.20.0/24
+30	Sales	192.168.30.0/24
+Configuration Steps
+Created VLANs.
+Assigned switch ports.
+Configured trunk link.
+Configured router subinterfaces.
+Tested connectivity.
+Verification
+Verified VLAN creation.
+Verified trunk operation.
+Verified inter-VLAN communication.
+
+Screenshots
+
+
+
+Document any errors and how they were fixed.
